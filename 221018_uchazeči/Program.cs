@@ -8,6 +8,7 @@ namespace _221018_uchazeči
 {
     class Program
     {
+
         static void Main(string[] args)
         {
         }
